@@ -1,0 +1,13 @@
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\bin\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.deps.json
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\bin\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.runtimeconfig.json
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\bin\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.runtimeconfig.dev.json
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\bin\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.dll
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\bin\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.pdb
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\bin\Release\netcoreapp3.0\MoreEasyMoreSimple.Entities.dll
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\bin\Release\netcoreapp3.0\MoreEasyMoreSimple.Entities.pdb
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\obj\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.csprojAssemblyReference.cache
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\obj\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.AssemblyInfoInputs.cache
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\obj\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.AssemblyInfo.cs
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\obj\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.csproj.CopyComplete
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\obj\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.dll
+C:\Users\Caberta-Haufe\Source\Repos\SystemMoreEasy\MoreEasyMoreSimple\MoreEasyMoreSimple.Data\obj\Release\netcoreapp3.0\MoreEasyMoreSimple.Data.pdb
